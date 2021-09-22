@@ -1,6 +1,6 @@
-import galleryItems from "../references/galleryItems.js"
+import galleryItems from "./references/galleryItems.js"
 
-import refs from "../references/refs.js"
+import refs from "./references/refs.js"
 
 const { list, modal, lightboxImage } = refs
 
